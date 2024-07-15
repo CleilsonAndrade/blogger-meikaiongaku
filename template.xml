@@ -3,7 +3,7 @@
 <HTML>
 <head>
 <meta content='lGecVyjcoefiRE3R7gLS4K2tKZqPoU_styIW44Y0a-k' name='google-site-verification'/>
-<link href='http://ap.imagensbrasil.org/images/2018/05/08/favicon.png' rel='shortcut icon'/>
+<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR6CfFz1qsIbCcRZj_usMBO0eQYaKsz83XQ9twQMpNe_kPd-9U_54Qys0ft9f59qAvhyphenhyphenSabsPKqmz2G_tVG2PZbbXe2_qitiaXmjgDT1yeE9sEFT0kupwXnvaO2nBXl9jZ0hlsigW3XMbzNzFl1b7fXjRVEljwiTNCXMfW0ZhD66W_yVUnYb0s9j2lgUw/s1600/favicon.png' rel='shortcut icon'/>
 <b:if cond='data:blog.url == data:blog.homepageUrl'>
 <title><data:blog.pageTitle/></title>
 <meta content='Sua Playlist sempre ATUALIZADA!' name='description'/>
@@ -22,10 +22,9 @@
 <b:skin><![CDATA[
 /**
 * Theme Name: Meikai Ongaku
-* Theme URL: http://bakuretsubaka-kun.blogspot.com.br/
 * Description: Anime Blogger
-* Author: Bakuretsu Baka-kun
-* Author URL: https://bakuretsubaka-kun.blogspot.com.br/
+* Author: Cleilson Andrade
+* Author Email: cleilsonjose@hotmail.com
 *
 */
 body#layout #header, body#layout #menu {height:inherit !important}
@@ -456,7 +455,7 @@ font-family: 'Open Sans', sans-serif;
 color: #312C21;
 overflow-x: hidden;
 font-size: 13px;
-background: #F9F9F7 url(http://ap.imagensbrasil.org/images/2018/05/05/background.png) repeat top left;
+background: #F9F9F7 url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNWk7f5dQeHCKemfFJ11ml85H9_CkgbD8wfxSYMag9fcnY7FySaz2eiBj_X3620H850WRPh4viKkT_mScu-_MXMPQwIWH_QRm6GGA3QvbwdkuGhORgZFkRUuXnMzbvgxORo1s0e3kK_Nc6GEpZw9kC5CNVHjvw5m498yxb4c8-Gnv9XbNrGUBBZKhfrYE/s1600/background.png') repeat top left;
 background-attachment: fixed;
 }
 a {
@@ -547,7 +546,7 @@ width:100%;
 margin:auto;
 }
 #header{
-background:#ddd url(http://ap.imagensbrasil.org/images/2018/05/05/header.jpg) no-repeat top center;
+background:#ddd url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieoOv7zFoW6QPdLgy1dG8-Kv3hTv6bvEzT2k5CGMW2l_dkPAj8-d6G40wqR7SBjAU2NSra9gvQUFBodxALIpYQ58GddY4FvetRismIQPl8FTrBQQCkQgqi8Sl3F_E5_ZhrxfyknTutbi-s7p7n5RfbD_T3rDMaRZtX69-cZEDIOwEzXs6OJL51TPqBl-8/s1600/header.jpg') no-repeat top center;
 width:1002px;
 position: relative;
 margin: auto;
@@ -715,7 +714,7 @@ line-height: 2.0;}
 #footer{
 font-size: 11px;
 color: black;
-background: #FFFFFF url(http://ap.imagensbrasil.org/images/2018/05/05/footer.jpg) no-repeat bottom right;
+background: #FFFFFF url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe7WYxGIaZ9za861IGhs4-pQbL72N9MR8tpe_q8eHHho7j0td_F8KJZgIRP-VNaL4KVrTg8K68p8404IM5wlhiMV3JZ4p0F6ygbTIm05ukLhPVt07b2F9oLDhZZ3txspEM4wup3WHFL7bJ6I9Dsa_ULeeVD5XPgpYxpe1JysMwoBgTFYOVe5H7wcCMqKY/s1600/footer.jpg') no-repeat bottom right;
 margin: auto;
 -moz-transition: all 0.3s ease-in-out;
 -webkit-transition: all 0.3s ease-in-out;
@@ -778,7 +777,7 @@ position:relative;
 float: left;
 border: 1px solid #fff;
 outline: 1px solid #ddd;
-background: url('http://ap.imagensbrasil.org/images/2018/05/05/noimage.png') no-repeat center center;
+background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkqpZDxkc0jgBmiuugEiz5qj0HHAN4WkXpoKwfbe7VDTFdGVwK3_-ewGLSjDu5BHCv5Lmq6w1yofsq_RzUfn6ZIw7TYxQ1XHAJzcnnXdvC6ucfjr_qZ1jG0yFc-3PWikJ5YJzP7zmO3hwv4GtdsY73rvRP0TbnSaYwCaTZ63c4q_ze47ShL60KPlrtiZY/s1600/noimage.png') no-repeat center center;
 border-radius: 2px;
 margin-right: 10px;}
 .crop-overlay {
@@ -906,7 +905,7 @@ border-top: 1px solid #fafafa;}
 .icon-action {display:none;}
 #search input[type="text"]:hover {width:160px;}
 #search input[type="text"] {
-background: #FAFAFA url("http://ap.imagensbrasil.org/images/2018/05/05/search.png")no-repeat center left;
+background: #FAFAFA url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-fgJrHVJ6njBVDvnv0YkvUjFmaJ2-2XYU6_jypBPpG9nwT3q4qxQZIUlZGDApVbPotzjUXaUOoYp1uAfog2QTG6g5LACvpCL9sOBF-wfZs37Z27BWidzGqHAV5zQuOj6er-uNtEenPBylXMyjUKFBu60wWVcJ4zio5uD3bgPInCt_Q8qtJwehtllR4vA/s1600/search.png')no-repeat center left;
 font-size: 12px;
 background-position-y: 10px;
 color: #222;
@@ -1195,13 +1194,13 @@ border-radius: 4px;
 }
 /* Rede Sociais */
 .twitterjo{
-background: #000000 url("http://ap.imagensbrasil.org/images/2018/05/05/white_twitter_bird.png")no-repeat center center;}
+background: #000000 url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRYAmB-Di9ScAnjb9J-tBWm4hCWiEWTr39Li1L6QDDwsk8yM1obpI8g3j3c5us8SGGPjRyg5HOXXudFxNFae4koJWkxHf_x-Q5sBjFsWoIqmWxRxbXyYYk7rKxNqlJy4xe584PiEuebDsmUwKJkWmT0A6RgsCnuM98_dVD4k6JnUFF-AJKyhEnumFG-Jo/s1600/white_twitter_bird.png')no-repeat center center;}
 .facebookjo {
-background: #93e731 url("http://ap.imagensbrasil.org/images/2018/05/05/white_facebook.png")no-repeat center center;}
+background: #93e731 url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6NIkdk3pGZyHxmbAlnjfCKO8JJXGoxDN46Sg-yYzm5u2AK9dEqKvnazUgGuXhXtpYAdkuAFcZx11ixIdubxj2RU1P6l9ZTPjVpFqTQdvIALvcz7Eh2OwrKLlyxkNLr4jdbhqyPFIX_JqsczQ8UeLyvuQ2FsSg997CsLRcHTY3BV6ceBfKVKl3ro507QE/s1600/white_facebook.png')no-repeat center center;}
 .googlejo{
-background: #93e731 url("http://ap.imagensbrasil.org/images/2018/05/05/white_google.png")no-repeat center center;}
+background: #93e731 url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3SiC3DWa42iDIMN3WrG7rponmR7_YYvYbZMzozxA_dPLRk9hr5MVIa125OI6zN-Cs3x3SuZiliKJxPWj7YXMzsGJ4AtO1P0_Xzy3fq-ZQ5GHsL7yp7-fRxxPEsiai8vzsnjiBruSFw3xIqgi0GJb6CfUOoh0iqNHwH9cwu7sJ7L7Z8ZlxAe_9pWcVjPI/s1600/white_google.png')no-repeat center center;}
 .pinterestjo{
-background: #000000 url("http://ap.imagensbrasil.org/images/2018/05/05/white_pinterest.png")no-repeat center center;}
+background: #000000 url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiil1gGrpTNWNEmib5_9bz8I6BEhbZgXco5KGCZS839yJyvHsxFyn7ndNS35693XiAqSa01EC1FDxDzK-hmQTBPFh6Hfthc-y-knom6GJ82oUP1efBI7_EopBfKZ4dX3q45XIst7jaHtURtcLRxo_v-AmInrE4KYf52d4rmftjU9OSdHrFtIWYEGByA-Es/s1600/white_pinterest.png')no-repeat center center;}
 /* Posição-Rede Sociais */
 .jorib {
 position: absolute;
@@ -1214,10 +1213,10 @@ padding: 5px;
 }
 ]]></b:skin>
 
-<link href='http://ap.imagensbrasil.org/images/2018/05/08/favicon.png' rel='icon' type='image/x-icon'/>
-<link href='http://ap.imagensbrasil.org/images/2018/05/08/favicon.png' rel='shortcut icon' type='image/x-icon'/>
-<link href='http://ap.imagensbrasil.org/images/2018/05/08/favicon.png' rel='icon'/>
-<link href='http://ap.imagensbrasil.org/images/2018/05/08/favicon.png' rel='icon' type='image/vnd.microsoft.icon'/>
+<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR6CfFz1qsIbCcRZj_usMBO0eQYaKsz83XQ9twQMpNe_kPd-9U_54Qys0ft9f59qAvhyphenhyphenSabsPKqmz2G_tVG2PZbbXe2_qitiaXmjgDT1yeE9sEFT0kupwXnvaO2nBXl9jZ0hlsigW3XMbzNzFl1b7fXjRVEljwiTNCXMfW0ZhD66W_yVUnYb0s9j2lgUw/s1600/favicon.png' rel='icon' type='image/x-icon'/>
+<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR6CfFz1qsIbCcRZj_usMBO0eQYaKsz83XQ9twQMpNe_kPd-9U_54Qys0ft9f59qAvhyphenhyphenSabsPKqmz2G_tVG2PZbbXe2_qitiaXmjgDT1yeE9sEFT0kupwXnvaO2nBXl9jZ0hlsigW3XMbzNzFl1b7fXjRVEljwiTNCXMfW0ZhD66W_yVUnYb0s9j2lgUw/s1600/favicon.png' rel='shortcut icon' type='image/x-icon'/>
+<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR6CfFz1qsIbCcRZj_usMBO0eQYaKsz83XQ9twQMpNe_kPd-9U_54Qys0ft9f59qAvhyphenhyphenSabsPKqmz2G_tVG2PZbbXe2_qitiaXmjgDT1yeE9sEFT0kupwXnvaO2nBXl9jZ0hlsigW3XMbzNzFl1b7fXjRVEljwiTNCXMfW0ZhD66W_yVUnYb0s9j2lgUw/s1600/favicon.png' rel='icon'/>
+<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR6CfFz1qsIbCcRZj_usMBO0eQYaKsz83XQ9twQMpNe_kPd-9U_54Qys0ft9f59qAvhyphenhyphenSabsPKqmz2G_tVG2PZbbXe2_qitiaXmjgDT1yeE9sEFT0kupwXnvaO2nBXl9jZ0hlsigW3XMbzNzFl1b7fXjRVEljwiTNCXMfW0ZhD66W_yVUnYb0s9j2lgUw/s1600/favicon.png' rel='icon' type='image/vnd.microsoft.icon'/>
 
 <!--CSS-->
 <style>
@@ -1233,7 +1232,7 @@ padding: 5px;
 #menu ul li {float: none;padding:5px;border-bottom: 1px solid #ddd;}
 #main4, #main5, #main6 {width: 100%;list-style-type: none;float: left;margin: auto;}
 #search input[type=&quot;text&quot;]{max-width: 677px;padding: 7px 0px 7px 35px;position: relative;width: 100%;
-background: #Fff url(&quot;http://ap.imagensbrasil.org/images/2018/05/05/search.png&quot;)no-repeat center left;}
+background: #Fff url(&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-fgJrHVJ6njBVDvnv0YkvUjFmaJ2-2XYU6_jypBPpG9nwT3q4qxQZIUlZGDApVbPotzjUXaUOoYp1uAfog2QTG6g5LACvpCL9sOBF-wfZs37Z27BWidzGqHAV5zQuOj6er-uNtEenPBylXMyjUKFBu60wWVcJ4zio5uD3bgPInCt_Q8qtJwehtllR4vA/s1600/search.png&quot;)no-repeat center left;}
 #search input[type=&quot;text&quot;]:hover{width:100%;}
 #menu ul li ul {top:0px;position:relative;display: none;box-shadow: none;width: 100%;}
 #header {width: 717px;height: 270px;background-size: 100%;}
@@ -1379,7 +1378,7 @@ div.innerHTML = summary;
             <b:section id='pagesmenuwidget' maxwidgets='1' showaddelement='no'>
               <b:widget id='PageList9' locked='false' title='Pages - Menu' type='PageList' version='1'>
                 <b:widget-settings>
-                  <b:widget-setting name='pageListJson'><![CDATA[{'home': {'href': 'https://bakuretsubaka-kun.blogspot.com/', 'title': 'Página inicial', 'position': 0}}]]></b:widget-setting>
+                  <b:widget-setting name='pageListJson'><![CDATA[{"home":{"href":"https://bakuretsubaka-kun.blogspot.com/","position":0,"title":"Página inicial"}}]]></b:widget-setting>
                   <b:widget-setting name='homeTitle'>Página inicial</b:widget-setting>
                 </b:widget-settings>
                 <b:includable id='main'>
@@ -1410,25 +1409,25 @@ div.innerHTML = summary;
   <b:widget id='Blog1' locked='true' title='Postagens no blog' type='Blog' version='1'>
     <b:widget-settings>
       <b:widget-setting name='showDateHeader'>false</b:widget-setting>
-      <b:widget-setting name='style.textcolor'>#2196f3</b:widget-setting>
+      <b:widget-setting name='style.textcolor'>#ffffff</b:widget-setting>
       <b:widget-setting name='showShareButtons'>true</b:widget-setting>
       <b:widget-setting name='authorLabel'>By</b:widget-setting>
       <b:widget-setting name='showCommentLink'>true</b:widget-setting>
-      <b:widget-setting name='style.urlcolor'>#212121</b:widget-setting>
+      <b:widget-setting name='style.urlcolor'>#ffffff</b:widget-setting>
       <b:widget-setting name='showAuthor'>false</b:widget-setting>
-      <b:widget-setting name='disableGooglePlusShare'>true</b:widget-setting>
-      <b:widget-setting name='style.linkcolor'>#757575</b:widget-setting>
+      <b:widget-setting name='style.linkcolor'>#ffffff</b:widget-setting>
       <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
       <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
+      <b:widget-setting name='reactionsLabel'/>
       <b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
       <b:widget-setting name='style.layout'>1x1</b:widget-setting>
       <b:widget-setting name='showLabels'>true</b:widget-setting>
       <b:widget-setting name='showLocation'>true</b:widget-setting>
       <b:widget-setting name='showTimestamp'>true</b:widget-setting>
-      <b:widget-setting name='postsPerAd'>3</b:widget-setting>
+      <b:widget-setting name='postsPerAd'>1</b:widget-setting>
       <b:widget-setting name='showBacklinks'>false</b:widget-setting>
       <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
-      <b:widget-setting name='showInlineAds'>true</b:widget-setting>
+      <b:widget-setting name='showInlineAds'>false</b:widget-setting>
       <b:widget-setting name='showReactions'>false</b:widget-setting>
     </b:widget-settings>
     <b:includable id='main' var='top'>
@@ -2675,22 +2674,6 @@ var dw='';titles=new Array();titlesNum=0;urls=new Array();timeR=new Array();thum
   </div>
 </b:includable>
   </b:widget>
-  <b:widget id='AdSense1' locked='false' title='' type='AdSense'>
-    <b:includable id='main'>
-  <div class='widget-content'>
-    <data:adCode/>
-    <b:include name='quickedit'/>
-  </div>
-</b:includable>
-  </b:widget>
-  <b:widget id='AdSense2' locked='false' title='' type='AdSense'>
-    <b:includable id='main'>
-  <div class='widget-content'>
-    <data:adCode/>
-    <b:include name='quickedit'/>
-  </div>
-</b:includable>
-  </b:widget>
   <b:widget id='Navbar1' locked='false' title='Navbar' type='Navbar'>
     <b:includable id='main'>&lt;script type=&quot;text/javascript&quot;&gt;
     function setAttributeOnload(object, attribute, val) {
@@ -2703,12 +2686,12 @@ var dw='';titles=new Array();titlesNum=0;urls=new Array();timeR=new Array();thum
     }
   &lt;/script&gt;
 &lt;div id=&quot;navbar-iframe-container&quot;&gt;&lt;/div&gt;
-&lt;script type=&quot;text/javascript&quot; src=&quot;https://apis.google.com/js/plusone.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://apis.google.com/js/platform.js&quot;&gt;&lt;/script&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
       gapi.load(&quot;gapi.iframes:gapi.iframes.style.bubble&quot;, function() {
         if (gapi.iframes &amp;&amp; gapi.iframes.getContext) {
           gapi.iframes.getContext().openChild({
-              url: &#39;https://www.blogger.com/navbar.g?targetBlogID\x3d7078282940950792485\x26blogName\x3dMeikai+ONGAKU\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://meikaiongaku.blogspot.com/search\x26blogLocale\x3dpt_BR\x26v\x3d2\x26homepageUrl\x3dhttps://meikaiongaku.blogspot.com/\x26vt\x3d8776966235777044245&#39;,
+              url: &#39;https://www.blogger.com/navbar.g?targetBlogID\x3d7078282940950792485\x26blogName\x3dMeikai+ONGAKU\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://meikaiongaku.blogspot.com/search\x26blogLocale\x3dpt_BR\x26v\x3d2\x26homepageUrl\x3dhttp://meikaiongaku.blogspot.com/\x26vt\x3d-3025240370122979148&#39;,
               where: document.getElementById(&quot;navbar-iframe-container&quot;),
               id: &quot;navbar-iframe&quot;
           });
@@ -2753,7 +2736,7 @@ head.appendChild(script);
 </div><div class='clear'/></div></div>
 <a class='tombolbacktotop' href='#header' title='Voltar ao Topo!'>&#9658;</a>
 <div class='fleft'>
-<p>- Copyright &amp;copy; <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script> <data:blog.title/> - <a href='https://bakuretsubaka-kun.blogspot.com/' target='nofollow'>website</a> Powered by <a href='http://blogger.com/'>Blogger</a> Designed by <a href='https://bakuretsubaka-kun.blogspot.com/' title='Bakuretsu Baka-Kun'>Bakuretsu Baka-Kun</a> -</p></div><!--Page Navigation Starts-->
+<p>- Copyright &amp;copy; <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script> <data:blog.title/> - <a href='https://bakuretsubaka-kun.blogspot.com/' target='nofollow'>website</a> Powered by <a href='http://blogger.com/'>Blogger</a> Designed by <a href='cleilsonjose@hotmail.com' title='Bakuretsu Baka-Kun'>Cleilson Andrade</a> -</p></div><!--Page Navigation Starts-->
 <!--Start lightbox -->
 <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js' type='text/javascript'/>
 <script type='text/javascript'>
