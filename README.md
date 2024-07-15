@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Blogger-MeikaiOngaku</h1>
-  <p>Template no formato XML para o Blogger com tema de musicas Anime, Games e cultura Geek em geral.</p>
+  <p>Template no formato XML para o CMS Blogger com tema de musicas Anime, Games e cultura Geek em geral.</p>
   <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
 
@@ -15,7 +15,7 @@
 * [Licença](#licença)
 
 # 📃 <span id="descrição">Descrição</span>
-Template no formato XML para o Blogger com tema de musicas Anime, Games e cultura Geek em geral, utilizando conceitos de responsividade para formatos de desktop e mobile com CSS nativo.
+Template no formato XML para o CMS Blogger com tema de musicas Anime, Games e cultura Geek em geral, utilizando conceitos de responsividade para formatos de desktop e mobile com CSS nativo.
 
 # 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Responsividade<br>
